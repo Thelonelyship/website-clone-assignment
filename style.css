@@ -742,13 +742,13 @@ h2 {
         display: none;
     }
     .title{
-        margin-left: 50px;
+        margin-left: 150px;
         margin-top: 150px;
         width: 250px;
         font-size: 2rem;
     }
     .text{
-        margin-left: 30px;
+        margin-left: 130px;
         margin-top: 350px;
         width: 250px;
         font-size: 14px;
@@ -777,14 +777,16 @@ h2 {
     }
 
     .readytitle{
+        margin-left: 80px;
         text-align: center;
-        width: 300px;
+        width: 350px;
     }
     .readymain{
         width: 97vw;
     }
 
     .readybutton{
+        margin-left: 30px;
         width: 350px;
     }
 
