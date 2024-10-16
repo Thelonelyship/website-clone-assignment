@@ -727,8 +727,15 @@ h2 {
         margin: 10px;
         font-size: 10px;
     }
+
+    .navbar a{
+        font-size: 14px;
+    }
     .headernavs{
         margin-left: 0;
+        width: 100vw;
+    }
+    .header{
         width: 100vw;
     }
     .logo{
@@ -771,6 +778,14 @@ h2 {
 
     .readytitle{
         text-align: center;
+        width: 300px;
+    }
+    .readymain{
+        width: 97vw;
+    }
+
+    .readybutton{
+        width: 350px;
     }
 
     .readybox{
