@@ -636,6 +636,7 @@ h2 {
         font-size: 20px;
     }
     .headernavs{
+        width: 100vw;
         margin-left: 0;
     }
     .logo{
@@ -720,14 +721,15 @@ h2 {
 @media (max-width: 500px){
     .topnav {
         margin-left: 10px;
-        font-size: 15px;
+        font-size: 12px;
     }
     .navbar{
-        margin-left: 10px;
+        margin: 10px;
         font-size: 10px;
     }
     .headernavs{
         margin-left: 0;
+        width: 100vw;
     }
     .logo{
         display: none;
@@ -741,6 +743,8 @@ h2 {
     .text{
         margin-left: 30px;
         margin-top: 350px;
+        width: 250px;
+        font-size: 14px;
     }
     .hero{
         background-image: none;
